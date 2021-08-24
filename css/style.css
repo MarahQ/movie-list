@@ -1,0 +1,32 @@
+h1{
+    color:white;
+    background-color: rgb(41, 146, 245);
+    width: 1480px;
+    border: 5px solid rgb(82, 175, 230);
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+#form{
+    border: 5px dashed #939496;
+    width: 300px;
+  
+    padding: 50px;
+    margin: 100px;
+}
+footer{
+    width: 1480px;
+    color: white;
+    background-color: rgb(22, 57, 77) ;
+    border: 5px solid rgb(22, 57, 77);
+    padding: 0px;
+    margin: auto;
+    text-align: center;
+    font-family: rob;
+}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+/* body{
+    background-color: cornsilk;
+} */
